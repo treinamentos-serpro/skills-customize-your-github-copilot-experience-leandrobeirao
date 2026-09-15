@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "sqlite-sqlalchemy-pandas",
+      "title": "Persistência de Dados com SQLite, SQLAlchemy e pandas",
+      "description": "Armazenamento em SQLite, operações com SQLAlchemy e análise de dados com pandas",
+      "path": "assignments/sqlite-sqlalchemy-pandas",
+      "dueDate": "2026-09-22",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Book Dataset",
+          "file": "data.csv",
+          "type": "csv"
+        }
+      ]
     }
   ]
 }
