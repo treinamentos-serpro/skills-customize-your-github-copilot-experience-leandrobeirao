@@ -1,19 +1,19 @@
 
-# 📘 Assignment: Hangman Game
+# 📘 Atividade: Jogo da Forca
 
-## 🎯 Objective
+## 🎯 Objetivo
 
 Construa o clássico jogo da Forca em Python para praticar manipulação de strings, loops, condicionais, entrada de dados e seleção aleatória.
 
-## 📝 Tasks
+## 📝 Tarefas
 
-### 🛠️ Hangman Game Implementation
+### 🛠️ Implementação do Jogo da Forca
 
-#### Description
+#### Descrição
 
 Complete o arquivo `starter-code.py` criando um jogo em que o jogador tenta descobrir uma palavra secreta ao informar uma letra por vez. A palavra deve ser escolhida aleatoriamente a partir da lista fornecida no código inicial.
 
-#### Requirements
+#### Requisitos
 
 O programa concluído deve:
 
